@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{20D84FED-382C-49B8-8B26-5B0F86596FB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HYWJ</RootNamespace>
+    <AssemblyName>HYERP</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>CE22D1892C251F415C2DF622B6D5CA2D756C7A3D</ManifestCertificateThumbprint>
+    <ManifestKeyFile>HYWJ_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <ApplicationIcon>EntireNetwork.ico</ApplicationIcon>
+    <PublishUrl>C:\Documents and Settings\Administrator\桌面\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="DevComponents.DotNetBar2, Version=7.7.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\TDDOWNLOAD\DotNetBarStudy\DotNetBarStudy\bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="ERPtimer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Documents and Settings\Administrator\桌面\ERPtimer.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Excel, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\WinFrom\gongwuyuan\WinBob\bin\Debug\Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Business\HY_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Business\HY_Customer.Designer.cs">
+      <DependentUpon>HY_Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Business\HY_CustomerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Business\HY_CustomerInfo.Designer.cs">
+      <DependentUpon>HY_CustomerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Business\HY_CustomerOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Business\HY_CustomerOrder.Designer.cs">
+      <DependentUpon>HY_CustomerOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_Purchaseorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_Purchaseorder.Designer.cs">
+      <DependentUpon>HY_Purchaseorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_Purchasingdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_Purchasingdetails.Designer.cs">
+      <DependentUpon>HY_Purchasingdetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_Purchasingstatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_Purchasingstatus.Designer.cs">
+      <DependentUpon>HY_Purchasingstatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionDetail.Designer.cs">
+      <DependentUpon>HY_RequisitionDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionNO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionNO.Designer.cs">
+      <DependentUpon>HY_RequisitionNO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_Requisitions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_Requisitions.Designer.cs">
+      <DependentUpon>HY_Requisitions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionsID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionsID.Designer.cs">
+      <DependentUpon>HY_RequisitionsID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionsTOProcurement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionsTOProcurement.Designer.cs">
+      <DependentUpon>HY_RequisitionsTOProcurement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionsWH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_RequisitionsWH.Designer.cs">
+      <DependentUpon>HY_RequisitionsWH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_rPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_rPerson.Designer.cs">
+      <DependentUpon>HY_rPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_SupplierList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_SupplierList.Designer.cs">
+      <DependentUpon>HY_SupplierList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_SupplierListSO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_SupplierListSO.Designer.cs">
+      <DependentUpon>HY_SupplierListSO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_SupplierPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Invoicing\HY_SupplierPrice.Designer.cs">
+      <DependentUpon>HY_SupplierPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_BomAudit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_BomAudit.Designer.cs">
+      <DependentUpon>HY_BomAudit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_BomDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_BomDetails.Designer.cs">
+      <DependentUpon>HY_BomDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_Bomlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_Bomlist.Designer.cs">
+      <DependentUpon>HY_Bomlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_BOMListInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_BOMListInventory.Designer.cs">
+      <DependentUpon>HY_BOMListInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_BomTORequisitionID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_BomTORequisitionID.Designer.cs">
+      <DependentUpon>HY_BomTORequisitionID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_BomTORequisitions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_BomTORequisitions.Designer.cs">
+      <DependentUpon>HY_BomTORequisitions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_Person.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_Person.Designer.cs">
+      <DependentUpon>HY_Person.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_ProductionPlanning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_ProductionPlanning.Designer.cs">
+      <DependentUpon>HY_ProductionPlanning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_ProductionProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_ProductionProgress.Designer.cs">
+      <DependentUpon>HY_ProductionProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_SalesCID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_SalesCID.Designer.cs">
+      <DependentUpon>HY_SalesCID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_SalesID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_SalesID.Designer.cs">
+      <DependentUpon>HY_SalesID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_SKID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_SKID.Designer.cs">
+      <DependentUpon>HY_SKID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Production\HY_WorkOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Production\HY_WorkOrder.Designer.cs">
+      <DependentUpon>HY_WorkOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HY_Report\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_BomlistDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_BomlistDB.Designer.cs">
+      <DependentUpon>HY_BomlistDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_BomlistDB2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_BomlistDB2.Designer.cs">
+      <DependentUpon>HY_BomlistDB2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_ProductionPlanningDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_ProductionPlanningDB.Designer.cs">
+      <DependentUpon>HY_ProductionPlanningDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_PurchasingdetailsDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_PurchasingdetailsDH.Designer.cs">
+      <DependentUpon>HY_PurchasingdetailsDH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_PurchasingdetailsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_PurchasingdetailsReport.Designer.cs">
+      <DependentUpon>HY_PurchasingdetailsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_RequisitionedDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_RequisitionedDB.Designer.cs">
+      <DependentUpon>HY_RequisitionedDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_StorageAccountDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_StorageAccountDB.Designer.cs">
+      <DependentUpon>HY_StorageAccountDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_StorageDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_StorageDB.Designer.cs">
+      <DependentUpon>HY_StorageDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Report\HY_WarehouseStateDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Report\HY_WarehouseStateDB.Designer.cs">
+      <DependentUpon>HY_WarehouseStateDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_System\HY_DepartmentSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_System\HY_DepartmentSet.Designer.cs">
+      <DependentUpon>HY_DepartmentSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_System\HY_NO.cs" />
+    <Compile Include="HY_System\HY_Permissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_System\HY_Permissions.Designer.cs">
+      <DependentUpon>HY_Permissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_System\HY_SQLCon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_System\HY_SQLCon.Designer.cs">
+      <DependentUpon>HY_SQLCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_System\HY_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_System\HY_Supplier.Designer.cs">
+      <DependentUpon>HY_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_System\HY_SystemSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_System\HY_SystemSet.Designer.cs">
+      <DependentUpon>HY_SystemSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_System\HY_Workflow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_System\HY_Workflow.Designer.cs">
+      <DependentUpon>HY_Workflow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_System\Ini.cs" />
+    <Compile Include="HY_System\Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_System\Management.Designer.cs">
+      <DependentUpon>Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_System\OperateAndValidate.cs" />
+    <Compile Include="HY_System\QuanXian.cs" />
+    <Compile Include="HY_Warehouse\HY_BomSo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_BomSo.Designer.cs">
+      <DependentUpon>HY_BomSo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_CargoIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_CargoIN.Designer.cs">
+      <DependentUpon>HY_CargoIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_LookStorage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_LookStorage.Designer.cs">
+      <DependentUpon>HY_LookStorage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_MaterialID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_MaterialID.Designer.cs">
+      <DependentUpon>HY_MaterialID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_Person.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_Person.Designer.cs">
+      <DependentUpon>HY_Person.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_procurementInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_procurementInfo.Designer.cs">
+      <DependentUpon>HY_procurementInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_Requisitioned.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_Requisitioned.Designer.cs">
+      <DependentUpon>HY_Requisitioned.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_StockAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_StockAccount.Designer.cs">
+      <DependentUpon>HY_StockAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_StockDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_StockDetails.Designer.cs">
+      <DependentUpon>HY_StockDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_Storage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_Storage.Designer.cs">
+      <DependentUpon>HY_Storage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_WarehouseLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HY_Warehouse\HY_WarehouseLog.Designer.cs">
+      <DependentUpon>HY_WarehouseLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logon.Designer.cs">
+      <DependentUpon>Logon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MianForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MianForm.Designer.cs">
+      <DependentUpon>MianForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Business\HY_Customer.resx">
+      <DependentUpon>HY_Customer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Business\HY_CustomerInfo.resx">
+      <DependentUpon>HY_CustomerInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Business\HY_CustomerOrder.resx">
+      <DependentUpon>HY_CustomerOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_Purchaseorder.resx">
+      <DependentUpon>HY_Purchaseorder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_Purchasingdetails.resx">
+      <DependentUpon>HY_Purchasingdetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_Purchasingstatus.resx">
+      <DependentUpon>HY_Purchasingstatus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_RequisitionDetail.resx">
+      <DependentUpon>HY_RequisitionDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_RequisitionNO.resx">
+      <DependentUpon>HY_RequisitionNO.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_Requisitions.resx">
+      <DependentUpon>HY_Requisitions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_RequisitionsID.resx">
+      <DependentUpon>HY_RequisitionsID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_RequisitionsTOProcurement.resx">
+      <DependentUpon>HY_RequisitionsTOProcurement.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_RequisitionsWH.resx">
+      <DependentUpon>HY_RequisitionsWH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_rPerson.resx">
+      <DependentUpon>HY_rPerson.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_SupplierList.resx">
+      <DependentUpon>HY_SupplierList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_SupplierListSO.resx">
+      <DependentUpon>HY_SupplierListSO.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Invoicing\HY_SupplierPrice.resx">
+      <DependentUpon>HY_SupplierPrice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_BomAudit.resx">
+      <DependentUpon>HY_BomAudit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_BomDetails.resx">
+      <DependentUpon>HY_BomDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_Bomlist.resx">
+      <DependentUpon>HY_Bomlist.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_BOMListInventory.resx">
+      <DependentUpon>HY_BOMListInventory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_BomTORequisitionID.resx">
+      <DependentUpon>HY_BomTORequisitionID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_BomTORequisitions.resx">
+      <DependentUpon>HY_BomTORequisitions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_Person.resx">
+      <DependentUpon>HY_Person.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_ProductionPlanning.resx">
+      <DependentUpon>HY_ProductionPlanning.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_ProductionProgress.resx">
+      <DependentUpon>HY_ProductionProgress.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_SalesCID.resx">
+      <DependentUpon>HY_SalesCID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_SalesID.resx">
+      <DependentUpon>HY_SalesID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_SKID.resx">
+      <DependentUpon>HY_SKID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Production\HY_WorkOrder.resx">
+      <DependentUpon>HY_WorkOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_BomlistDB.resx">
+      <DependentUpon>HY_BomlistDB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_BomlistDB2.resx">
+      <DependentUpon>HY_BomlistDB2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_BomlistReport.rdlc" />
+    <EmbeddedResource Include="HY_Report\HY_ProductionPlanningDB.resx">
+      <DependentUpon>HY_ProductionPlanningDB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_ProductionPlanningReport.rdlc" />
+    <EmbeddedResource Include="HY_Report\HY_PurchasingdetailsDH.resx">
+      <DependentUpon>HY_PurchasingdetailsDH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_PurchasingdetailsReport.resx">
+      <DependentUpon>HY_PurchasingdetailsReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_RequisitionedDB.resx">
+      <DependentUpon>HY_RequisitionedDB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_RequisitionedReport.rdlc" />
+    <EmbeddedResource Include="HY_Report\HY_StorageAccountDB.resx">
+      <DependentUpon>HY_StorageAccountDB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_StorageAccountReport.rdlc" />
+    <EmbeddedResource Include="HY_Report\HY_StorageDB.resx">
+      <DependentUpon>HY_StorageDB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_ProcurementInfoReportDH.rdlc" />
+    <EmbeddedResource Include="HY_Report\HY_WarehouseStateDB.resx">
+      <DependentUpon>HY_WarehouseStateDB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_WarehouseStateReport.rdlc" />
+    <EmbeddedResource Include="HY_System\HY_DepartmentSet.resx">
+      <DependentUpon>HY_DepartmentSet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_System\HY_Permissions.resx">
+      <DependentUpon>HY_Permissions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_System\HY_SQLCon.resx">
+      <DependentUpon>HY_SQLCon.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_System\HY_Supplier.resx">
+      <DependentUpon>HY_Supplier.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_System\HY_SystemSet.resx">
+      <DependentUpon>HY_SystemSet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_System\HY_Workflow.resx">
+      <DependentUpon>HY_Workflow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_System\Management.resx">
+      <DependentUpon>Management.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_BomSo.resx">
+      <DependentUpon>HY_BomSo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_CargoIN.resx">
+      <DependentUpon>HY_CargoIN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_LookStorage.resx">
+      <DependentUpon>HY_LookStorage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_MaterialID.resx">
+      <DependentUpon>HY_MaterialID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_Person.resx">
+      <DependentUpon>HY_Person.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_procurementInfo.resx">
+      <DependentUpon>HY_procurementInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_Requisitioned.resx">
+      <DependentUpon>HY_Requisitioned.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_StockAccount.resx">
+      <DependentUpon>HY_StockAccount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_StockDetails.resx">
+      <DependentUpon>HY_StockDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_Storage.resx">
+      <DependentUpon>HY_Storage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Warehouse\HY_WarehouseLog.resx">
+      <DependentUpon>HY_WarehouseLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logon.resx">
+      <DependentUpon>Logon.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MianForm.resx">
+      <DependentUpon>MianForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HY_Report\HY_ProcurementInfoReport.rdlc" />
+    <EmbeddedResource Include="HY_Report\HY_StrageReport.rdlc" />
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="HY_Report\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HY_Report\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="HY_Report\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HY_BLL\HY_BLL.csproj">
+      <Project>{485FEFFF-ADB0-446A-9BF1-59D8B9100EC3}</Project>
+      <Name>HY_BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HY_DbSqlHelp\HY_DbSqlHelp.csproj">
+      <Project>{7F340C08-1BA3-4047-945B-A06C8FE4D3E3}</Project>
+      <Name>HY_DbSqlHelp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HY_Model\HY_Model.csproj">
+      <Project>{BC4154A2-4FBC-4164-A584-B3BED27BD53C}</Project>
+      <Name>HY_Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EntireNetwork.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="HY_System\Images\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

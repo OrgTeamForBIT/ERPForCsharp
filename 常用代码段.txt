@@ -1,0 +1,8 @@
+ private void txtGoodsNoPrice_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar != 8 && !char.IsDigit(e.KeyChar) && e.KeyChar != '.') 
+            {
+                MessageBox.Show("«Î ‰»Î ˝◊÷");
+                e.Handled = true;
+            }
+        }

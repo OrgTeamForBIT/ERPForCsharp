@@ -1,0 +1,9 @@
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\bin\Release\HY_DAL.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\bin\Release\HY_DAL.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\bin\Release\HY_DbSqlHelp.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\bin\Release\HY_Model.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\bin\Release\HY_DbSqlHelp.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\bin\Release\HY_Model.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\obj\Release\ResolveAssemblyReference.cache
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\obj\Release\HY_DAL.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DAL\obj\Release\HY_DAL.pdb

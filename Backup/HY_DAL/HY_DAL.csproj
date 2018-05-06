@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D86E6445-69D3-48D6-84CC-56F27B74A587}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HY_DAL</RootNamespace>
+    <AssemblyName>HY_DAL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HY_BomDetailsDAO.cs" />
+    <Compile Include="HY_BomlistDAO.cs" />
+    <Compile Include="HY_CustomerInfoDAO.cs" />
+    <Compile Include="HY_DepartmentDAO.cs" />
+    <Compile Include="HY_InformationDAO.cs" />
+    <Compile Include="HY_ProcurementDAO.cs" />
+    <Compile Include="HY_ProductionPlanningDAO.cs" />
+    <Compile Include="HY_RequisitionedDAO.cs" />
+    <Compile Include="HY_RequisitionInfoDAO.cs" />
+    <Compile Include="HY_RequisitionsTOProcurementDAO.cs" />
+    <Compile Include="HY_Set.cs" />
+    <Compile Include="HY_StorageDAO.cs" />
+    <Compile Include="HY_SupplierDAO.cs" />
+    <Compile Include="HY_SupplierPriceDAO.cs" />
+    <Compile Include="HY_UserListDAO.cs" />
+    <Compile Include="HY_WarehouseDAO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HY_DbSqlHelp\HY_DbSqlHelp.csproj">
+      <Project>{7F340C08-1BA3-4047-945B-A06C8FE4D3E3}</Project>
+      <Name>HY_DbSqlHelp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HY_Model\HY_Model.csproj">
+      <Project>{BC4154A2-4FBC-4164-A584-B3BED27BD53C}</Project>
+      <Name>HY_Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,25 @@
+F:\WINFORM\海益数据管理系统\HYWJ\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.pdb
+F:\WINFORM\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\ResolveAssemblyReference.cache
+F:\WINFORM\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.pdb
+F:\海益数据管理系统\HYWJ\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.dll
+F:\海益数据管理系统\HYWJ\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.pdb
+F:\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\ResolveAssemblyReference.cache
+F:\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.dll
+F:\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.pdb
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.pdb
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\ResolveAssemblyReference.cache
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DbSqlHelp\obj\Debug\ResolveAssemblyReference.cache
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.pdb
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.dll
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HY_DbSqlHelp\bin\Debug\HY_DbSqlHelp.pdb
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HY_DbSqlHelp\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.dll
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HY_DbSqlHelp\obj\Debug\HY_DbSqlHelp.pdb

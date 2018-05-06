@@ -1,0 +1,494 @@
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe.config
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe.manifest
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.application
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.pdb
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_BLL.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_Model.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\msmdvbanet.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\office.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DAL.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_BLL.pdb
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.pdb
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_Model.pdb
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DAL.pdb
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\ResolveAssemblyReference.cache
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.ResolveComReference.cache
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.About.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_Customer.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerInfo.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerOrder.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingdetails.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionNO.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Requisitions.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsID.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsTOProcurement.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsWH.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_rPerson.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierList.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierListSO.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierPrice.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomAudit.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomDetails.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Bomlist.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BOMListInventory.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitionID.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitions.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionPlanning.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesCID.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesID.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SKID.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_WorkOrder.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB2.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_ProductionPlanningDB.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsReport.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_RequisitionedDB.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageAccountDB.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageDB.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_DepartmentSet.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Permissions.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SQLCon.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Supplier.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SystemSet.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.Management.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_CargoIN.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_MaterialID.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Person.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Requisitioned.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockAccount.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockDetails.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Storage.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_WarehouseLog.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Logon.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.MianForm.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Properties.Resources.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Register.resources
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.GenerateResource.Cache
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\RdlCompile.cache
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\RdlCompile.compiled
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.exe.manifest
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.application
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.exe
+F:\WINFORM\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.pdb
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe.config
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe.manifest
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.application
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.pdb
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\DevComponents.DotNetBar2.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\ERPtimer.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_BLL.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_Model.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\msmdvbanet.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\office.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DAL.dll
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_BLL.pdb
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.pdb
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_Model.pdb
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DAL.pdb
+F:\海益数据管理系统\HYWJ\HYWJ\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\ResolveAssemblyReference.cache
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.ResolveComReference.cache
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.About.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_Customer.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerInfo.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerOrder.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingdetails.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionNO.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Requisitions.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsID.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsTOProcurement.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsWH.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_rPerson.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierList.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierListSO.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierPrice.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomAudit.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomDetails.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Bomlist.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BOMListInventory.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitionID.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitions.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionPlanning.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesCID.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesID.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SKID.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_WorkOrder.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB2.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_ProductionPlanningDB.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsReport.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_RequisitionedDB.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageAccountDB.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageDB.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_DepartmentSet.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Permissions.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SQLCon.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Supplier.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SystemSet.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Workflow.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.Management.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_CargoIN.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_MaterialID.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Person.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Requisitioned.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockAccount.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockDetails.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Storage.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_WarehouseLog.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Logon.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.MianForm.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Properties.Resources.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Register.resources
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.GenerateResource.Cache
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\RdlCompile.cache
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\RdlCompile.compiled
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.exe.manifest
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.application
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.exe
+F:\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.pdb
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe.config
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe.manifest
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.application
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.exe
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HYWJ.pdb
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_BLL.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_Model.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\Interop.Excel.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\office.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DAL.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_BLL.pdb
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.pdb
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_Model.pdb
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\HY_DAL.pdb
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\ResolveAssemblyReference.cache
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.ResolveComReference.cache
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.About.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_Customer.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerInfo.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerOrder.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingdetails.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionNO.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Requisitions.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsID.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsTOProcurement.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsWH.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_rPerson.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierList.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierListSO.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierPrice.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomAudit.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomDetails.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Bomlist.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BOMListInventory.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitionID.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitions.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionPlanning.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesCID.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesID.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SKID.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_WorkOrder.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB2.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_ProductionPlanningDB.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsReport.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_RequisitionedDB.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageAccountDB.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageDB.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_DepartmentSet.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Permissions.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SQLCon.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Supplier.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SystemSet.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Workflow.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.Management.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_CargoIN.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_MaterialID.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Person.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Requisitioned.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockAccount.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockDetails.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Storage.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_WarehouseLog.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Logon.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.MianForm.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Properties.Resources.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.Register.resources
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.GenerateResource.Cache
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\RdlCompile.cache
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\RdlCompile.compiled
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.exe.manifest
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.application
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.exe
+F:\海益工作文件夹\海益数据管理系统\HYWJ\HYWJ\obj\Debug\HYWJ.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.exe.config
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.exe.manifest
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.application
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.exe
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_BLL.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_Model.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\Interop.Excel.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_DAL.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_BLL.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_Model.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_DAL.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\Interop.Microsoft.Office.Core.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\ResolveAssemblyReference.cache
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.ResolveComReference.cache
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.About.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_Customer.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerInfo.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerOrder.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingdetails.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingstatus.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionDetail.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionNO.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Requisitions.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsID.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsTOProcurement.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsWH.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_rPerson.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierList.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierListSO.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierPrice.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomAudit.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomDetails.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Bomlist.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BOMListInventory.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitionID.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitions.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Person.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionPlanning.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionProgress.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesCID.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesID.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SKID.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_WorkOrder.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB2.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_ProductionPlanningDB.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsDH.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsReport.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_RequisitionedDB.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageAccountDB.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageDB.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_WarehouseStateDB.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_DepartmentSet.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Permissions.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SQLCon.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Supplier.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SystemSet.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Workflow.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.Management.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_BomSo.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_CargoIN.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_LookStorage.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_MaterialID.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Person.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_procurementInfo.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Requisitioned.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockAccount.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockDetails.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Storage.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_WarehouseLog.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.Logon.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.MianForm.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.Properties.Resources.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.Register.resources
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.GenerateResource.Cache
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\RdlCompile.cache
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\RdlCompile.compiled
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYERP.exe.manifest
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYERP.application
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYERP.exe
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYERP.pdb
+F:\海益工作文件夹\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchaseorder.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.exe.config
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.ResolveComReference.cache
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYERP.exe
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYERP.pdb
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.exe.manifest
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.application
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.exe
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HYERP.pdb
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_BLL.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_Model.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\office.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_DAL.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_BLL.pdb
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_DbSqlHelp.pdb
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_Model.pdb
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\HY_DAL.pdb
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.About.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_Customer.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerInfo.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerOrder.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchaseorder.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingdetails.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingstatus.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionDetail.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionNO.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Requisitions.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsID.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsTOProcurement.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsWH.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_rPerson.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierList.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierListSO.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierPrice.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomAudit.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomDetails.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Bomlist.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BOMListInventory.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitionID.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitions.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Person.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionPlanning.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionProgress.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesCID.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesID.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SKID.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Production.HY_WorkOrder.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB2.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_ProductionPlanningDB.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsDH.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsReport.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_RequisitionedDB.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageAccountDB.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageDB.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Report.HY_WarehouseStateDB.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_DepartmentSet.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Permissions.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SQLCon.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Supplier.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_SystemSet.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.HY_Workflow.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_System.Management.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_BomSo.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_CargoIN.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_LookStorage.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_MaterialID.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Person.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_procurementInfo.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Requisitioned.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockAccount.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockDetails.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Storage.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_WarehouseLog.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.Logon.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.MianForm.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.Properties.Resources.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.Register.resources
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYWJ.csproj.GenerateResource.Cache
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\RdlCompile.cache
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\RdlCompile.compiled
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYERP.exe.manifest
+E:\项目\未分类\海益数据管理系统2.0\HYWJ\HYWJ\obj\Debug\HYERP.application
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\bin\Debug\HYERP.exe.config
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.csproj.ResolveComReference.cache
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYERP.exe
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYERP.pdb
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.About.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Business.HY_Customer.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerInfo.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Business.HY_CustomerOrder.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchaseorder.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingdetails.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Purchasingstatus.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionDetail.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionNO.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_Requisitions.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsID.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsTOProcurement.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_RequisitionsWH.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_rPerson.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierList.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierListSO.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Invoicing.HY_SupplierPrice.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomAudit.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomDetails.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Bomlist.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BOMListInventory.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitionID.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_BomTORequisitions.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_Person.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionPlanning.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_ProductionProgress.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesCID.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SalesID.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_SKID.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Production.HY_WorkOrder.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_BomlistDB2.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_ProductionPlanningDB.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsDH.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_PurchasingdetailsReport.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_RequisitionedDB.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageAccountDB.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_StorageDB.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Report.HY_WarehouseStateDB.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_System.HY_DepartmentSet.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_System.HY_Permissions.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_System.HY_SQLCon.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_System.HY_Supplier.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_System.HY_SystemSet.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_System.HY_Workflow.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_System.Management.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_BomSo.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_CargoIN.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_LookStorage.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_MaterialID.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Person.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_procurementInfo.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Requisitioned.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockAccount.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_StockDetails.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_Storage.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.HY_Warehouse.HY_WarehouseLog.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.Logon.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.MianForm.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.Properties.Resources.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.Register.resources
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\RdlCompile.cache
+D:\Program Files\Tencent\QQ\Users\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\RdlCompile.compiled
+D:\我的文档\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\bin\Debug\HYERP.exe.config
+D:\我的文档\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\我的文档\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.csproj.ResolveComReference.cache
+D:\我的文档\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYERP.exe
+D:\我的文档\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYERP.pdb
+G:\QQMSG\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\bin\Debug\HYERP.exe.config
+G:\QQMSG\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\QQMSG\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYWJ.csproj.ResolveComReference.cache
+G:\QQMSG\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYERP.exe
+G:\QQMSG\93896616\FileRecv\《海益ERP数据管理系统2.0源码》\HYWJ\obj\Debug\HYERP.pdb
